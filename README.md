@@ -32,4 +32,4 @@ We can break our app into **5 components** (plus the root App component):
 
 Components that appear within another component in the graph below should appear as a child in the hierarchy:
 
-<img src="black-jack/assets/blackjack_components.jpg" />
+<img src="assets/blackjack_components.jpg" />
